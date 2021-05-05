@@ -1,5 +1,9 @@
 # nuxt-mathjax-sample
 
+Demo using Mathjax with Nuxt
+![Slice 1](https://user-images.githubusercontent.com/52205108/117113821-fa092d00-adc5-11eb-9396-20b0ded7ec8d.png)
+
+
 ## Build Setup
 
 ```bash
