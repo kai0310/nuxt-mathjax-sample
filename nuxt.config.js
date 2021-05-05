@@ -15,6 +15,14 @@ export default {
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+    ],
+    // If you want to use it from anywhere in the project.
+    // プロジェクトのどこからでも読み込みたい場合
+    script: [
+      {
+        src:
+          'https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js'
+      }
     ]
   },
 
